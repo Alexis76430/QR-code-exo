@@ -1,0 +1,55 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
+
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background: #fff;
+    overflow-x: hidden;
+    text-align: center;
+    border: 2px solid red;
+}
+.container{
+    border: 2px solid green;
+   margin: 200px;
+   height: auto;
+   border-radius: 20px;
+   box-shadow: box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;;
+
+}
+.text1{
+    border: 2px solid blue;
+}
+.text2{
+    border: 2px solid grey;
+
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+img{
+    width: 93%;
+    border-radius: 17px;
+    margin-bottom: 12px;
+    margin-top: 3px%
+}
+h1 p{
+    line-height: 3;
+}
+p{
+    margin-bottom: 10px;
+    color: gray;
+}
+.tex1 .text2{
+    margin: 0px 10px 0px 25px;
+}
+h1{
+    font-size: 1em;
+}
